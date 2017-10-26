@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import { firebaseApp } from "./firebase";
 import Media from './components/Media';
 import './App.css';
 
